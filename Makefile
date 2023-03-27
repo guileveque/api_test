@@ -1,11 +1,11 @@
 fclean:
-    touch coucou.txt
+	@echo 'eeee'
 
 all:
-    @echo 'coucou'
+	@echo 'coucou'
 
 tests_run:
-    @echo 'fff'
+	@echo 'fff'
 
 clean:
-    @echo 'dd'
+	@echo 'dd'
