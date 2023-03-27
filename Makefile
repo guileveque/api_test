@@ -4,3 +4,5 @@ tests_run:
   mkdir run
 clean:
   touch cc.txt
+all:
+  echo "coucou"
