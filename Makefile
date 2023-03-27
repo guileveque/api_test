@@ -1,8 +1,4 @@
-fclean:
-  touch coucou.txt
-tests_run:
-  mkdir run
-clean:
-  touch cc.txt
-all:
-  echo "coucou"
+fclean: echo "ff"
+all: echo "coucou"
+tests_run: echo "fff"
+clean: echo "dd"
